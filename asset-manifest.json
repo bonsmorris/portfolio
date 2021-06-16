@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e739aa8c.chunk.css",
+    "main.js": "/portfolio/static/js/main.a6b4e3ba.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a6b4e3ba.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.d6331d23.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.d6331d23.js.map",
+    "static/js/2.831c8a8b.chunk.js": "/portfolio/static/js/2.831c8a8b.chunk.js",
+    "static/js/2.831c8a8b.chunk.js.map": "/portfolio/static/js/2.831c8a8b.chunk.js.map",
+    "static/js/3.8446ad2f.chunk.js": "/portfolio/static/js/3.8446ad2f.chunk.js",
+    "static/js/3.8446ad2f.chunk.js.map": "/portfolio/static/js/3.8446ad2f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.e739aa8c.chunk.css.map": "/portfolio/static/css/main.e739aa8c.chunk.css.map",
+    "static/js/2.831c8a8b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.831c8a8b.chunk.js.LICENSE.txt",
+    "static/media/SurveySquireLogo.1169e45a.png": "/portfolio/static/media/SurveySquireLogo.1169e45a.png",
+    "static/media/ap.139f8aaf.jpg": "/portfolio/static/media/ap.139f8aaf.jpg",
+    "static/media/ap1.831fd76b.jpg": "/portfolio/static/media/ap1.831fd76b.jpg",
+    "static/media/ap2.e90d1d83.jpg": "/portfolio/static/media/ap2.e90d1d83.jpg",
+    "static/media/blackberryGallon.ad444580.jpg": "/portfolio/static/media/blackberryGallon.ad444580.jpg",
+    "static/media/pic1.307e2569.jpg": "/portfolio/static/media/pic1.307e2569.jpg",
+    "static/media/profilepic.8a8d0d74.jpg": "/portfolio/static/media/profilepic.8a8d0d74.jpg",
+    "static/media/profilepic2.aeadc8de.jpg": "/portfolio/static/media/profilepic2.aeadc8de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6331d23.js",
+    "static/js/2.831c8a8b.chunk.js",
+    "static/css/main.e739aa8c.chunk.css",
+    "static/js/main.a6b4e3ba.chunk.js"
+  ]
+}
